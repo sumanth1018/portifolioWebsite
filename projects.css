@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.Projects-Section-bg-container {
+    background-color: #3e4c59;
+}
+
+.Projects-Section-portfolio-heading {
+    font-size: 23px;
+    font-weight: bold;
+    color: #cced00;
+}
+
+.Projects-Section-heading {
+    color: #fff;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+.Projects-Section-project-card {
+    background-color: #323f4b;
+    border-radius: 15px;
+}
+
+.Projects-Section-card-image {
+    width: 100%;
+}
+
+.Projects-Section-card-sub-heading {
+    font-size: 15px;
+    color: #9aa5b1;
+}
+
+.Projects-Section-card-heading {
+    font-size: 25px;
+    color: #fff;
+}
+
+.Projects-Section-card-description {
+    font-size: 20px;
+    color: #9aa5b1;
+}
+
+.Projects-Section-card-button {
+    background-color: transparent;
+    border-width: 0px;
+    color: #cced00;
+    font-weight: bold;
+}
